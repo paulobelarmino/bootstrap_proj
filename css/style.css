@@ -1,0 +1,49 @@
+/* body{
+    font: 30px Ariel sans-serif bold;   
+    color: white;]
+    
+} */
+.navbar{
+    background-color: #a0d3e2;
+    
+}
+
+.quem-somos{
+    background-color: rgb(184, 191, 200);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.parceiros{
+    background-color: antiquewhite;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
+
+.servicos{
+    background-color: rgb(218, 178, 127);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
+
+.cl-footer{
+    background-color: rgb(195, 194, 193);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    color: black;
+}
